@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://billsdirect.com/sitemap.xml
